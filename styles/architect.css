@@ -12,6 +12,12 @@
 }
 
 
+.section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #131313;
+}
+
 .text-light-gray {
     color: #727272;
 }
@@ -44,11 +50,7 @@ nav  li {
     font-size: 1rem;
 }
 
-.nav-title {
-    font-size: 2rem;
-    font-weight: 700;
-    color: #131313;
-}
+
 
 nav li a {
     text-decoration: none;
